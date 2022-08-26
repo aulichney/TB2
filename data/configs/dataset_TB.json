@@ -1,0 +1,14 @@
+{
+    "type": "dataset",
+    "dataset_path": "./data/datasets/TB",
+    "base_path": "./data/datasets/TB/train",
+    "name": "TB",
+    "components": "./data/datasets/TB/components",
+    "ground_truth": "./data/datasets/TB/ground_truth",
+    "classes": [
+        "health",
+        "sick",
+        "tb"
+    ],
+    "dataset_type": "classification"
+}
